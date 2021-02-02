@@ -1,0 +1,19 @@
+{
+  "name": "sign-actions",
+  "version": "1.0.0",
+  "description": "自动签到脚本",
+  "license": "UNLICENSED",
+  "author": {
+    "name": "fashionzzZ"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fashionzzZ/sign-actions"
+  },
+  "homepage": "https://github.com/fashionzzZ/sign-actions#readme",
+  "dependencies": {
+    "download": "^8.0.0",
+    "request": "^2.88.2",
+    "axios": "> = 0.21.1"
+  }
+}
