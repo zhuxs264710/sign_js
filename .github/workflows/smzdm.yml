@@ -3,6 +3,8 @@ name: 什么值得买签到
 on:
   #  push:
   #    branches: [ main ]
+  watch:
+    types: [started]
   schedule:
     - cron: '0 1 * * *'
 
